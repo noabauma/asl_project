@@ -1,0 +1,11 @@
+build/
+.vscode/
+.DS_Store
+output.txt
+cachegrind*
+*.s
+*.o
+profile.dSYM/
+profile
+TSNE/
+.ipynb_checkpoints/
